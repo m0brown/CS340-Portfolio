@@ -1,1 +1,12 @@
 # CS340-Portfolio
+
+### How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+I make my programs maintainable, readable, and adaptable by writing code that is clear and concise, Documenting my code with READMEs, utilizing comments, and implementing OOP principles when I can. Creating the CRUD Python module showcases these OOP skills by creating modular code so that reading it is easy and other developers can come in and understand what is going on. Modular code can also be tested, maintained, and adapted more easily than large chunks of code.
+
+
+### How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+I am a big proponent of iterative development. I like having a TODO list of items and slowly working through the list and testing as I go. I made sure my program fulfilled the requirements that Grazioso Salvare requested with the TODO list. Now that I've made a database before, I'd like to keep exploring how they are used in other settings. I don't expect someone who has never coded before (such as Grazioso Salvare employees) to easily pick up a Jupyter notebook and implement my database and dashboard design. I'm interested in how other clients might want the database to function with a dashboard that is more approachable by their employees.
+
+
+### What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer scientists focus their efforts on the theory, design, and application of computer technology to solve real-world problems and create new systems. Computer scientists have impacted practically every element of modern life, resulting in new industries and career possibilities. In the case of Grazioso Salvare, my work could involve developing software tools to streamline their operations. This will enhance the productivity and efficacy of Grazioso Salvare's firm by assisting them in finding qualified dogs, and automating repetitive chores.
